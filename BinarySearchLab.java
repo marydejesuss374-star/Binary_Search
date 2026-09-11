@@ -5,10 +5,10 @@
    shrinking search interval can be traced. The program prints the index of
    the target if found, or -1 if not found.
 
-   Programmed by: <> <BSIT> <DATA STRUCTURES AND ALGORITHM>
-   Last Modified: <SEPT 4, 2026>
+   Programmed by: <MARY ANTOINETTE B. DE JESUS> <BSIT> <DATA STRUCTURES AND ALGORITHM>
+   Last Modified: <SEPT 11, 2026>
    Version: 1.0
-   Acknowledgements: <I used claude to fix my code and correct all the wrongs in my program for it to work."
+   Acknowledgements: <I used claude to help me fix my codes and make my work useful."
 */
 
 import java.util.Arrays;
